@@ -1,0 +1,3 @@
+pregunta 4
+
+Respuesta: la relacion es que git actua como el puente que garantiza que la informacion  sea confiable y auditable , permitiendo que la sociedad participe de manera organizada y responsable en la construccion de soluciones digitales.
