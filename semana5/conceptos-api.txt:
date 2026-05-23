@@ -1,0 +1,2 @@
+ ¿Qué hace esta ruta?: Una ruta en Express define la lógica que sigue el servidor cuando recibe una petición en una URL específica, determinando qué datos enviar o qué acción realizar como respuesta.
+ ¿Para qué podría servir en una aplicación comunitaria?: Podría utilizarse, por ejemplo, para gestionar el registro de familias en programas como la "Educación Inicial Campesina", permitiendo consultar información pedagógica o registrar los avances en proyectos de sostenibilidad comunitaria.

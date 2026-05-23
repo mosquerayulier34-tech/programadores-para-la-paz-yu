@@ -1,0 +1,3 @@
+http://localhost:3000⁠: Es la ruta raíz (o "home"). Generalmente, devuelve la página principal o un mensaje de bienvenida del servidor.
+ ⁠http://localhost:3000/saludo⁠: Es una ruta específica. Al acceder, el servidor ejecuta una función que devuelve un mensaje de saludo definido en el código.
+ ⁠http://localhost:3000/mensaje/juan⁠: Es una ruta con un parámetro dinámico (⁠/juan⁠). El servidor captura "juan" como una variable y generalmente responde con un mensaje personalizado que utiliza ese nombre.
