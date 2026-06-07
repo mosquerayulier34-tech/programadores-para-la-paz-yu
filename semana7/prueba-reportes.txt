@@ -1,0 +1,8 @@
+Prueba de reportes
+
+- Fecha: 2026-06-07
+- Autor: 
+- Descripción: Archivo de prueba para verificar subida de reportes.
+
+Notas:
+- Añade aquí los resultados o enlaces a los reportes.
