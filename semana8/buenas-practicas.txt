@@ -1,0 +1,3 @@
+Proteger contraseñas: Esto implica no utilizar la misma contraseña para todos tus servicios y optar por combinaciones robustas.
+ No compartir credenciales: Es fundamental mantener tus datos de acceso en privado para evitar el acceso no autorizado a tus cuentas.
+ Mantener software actualizado: Realizar las actualizaciones de tus programas y sistemas operativos permite que estos cuenten con los parches de seguridad más recientes.
