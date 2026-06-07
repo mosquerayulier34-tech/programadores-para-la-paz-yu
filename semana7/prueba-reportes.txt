@@ -6,3 +6,10 @@ Prueba de reportes
 
 Notas:
 - Añade aquí los resultados o enlaces a los reportes.
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
