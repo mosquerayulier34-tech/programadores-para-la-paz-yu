@@ -1,0 +1,9 @@
+1:Anonimización y minimización de datos
+
+2:Gestión robusta de credenciales
+
+3:Implementación de conexiones cifradas
+
+4:Auditoría y registro de actividades
+
+5:Control de acceso basado en roles

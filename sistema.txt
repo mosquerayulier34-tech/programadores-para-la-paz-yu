@@ -1,0 +1,5 @@
+Para administrar un servidor de manera eficiente, conocer la información del sistema es fundamental porque te permite monitorear el estado de salud, diagnosticar cuellos de botella y garantizar la disponibilidad de los servicios.
+Cada comando (como ⁠top⁠, ⁠df⁠, ⁠free⁠ o ⁠uptime⁠) actúa como un instrumento de medición que te proporciona datos específicos sobre el consumo de recursos críticos —procesador, memoria RAM y almacenamiento—, lo cual es vital por tres razones clave:
+ Detección preventiva: Identificar procesos que consumen recursos en exceso antes de que el servidor se vuelva inestable o se bloquee.
+ Planificación estratégica: Basar las decisiones de escalabilidad (como aumentar memoria o disco) en datos reales de uso y no en suposiciones.
+ Seguridad: Verificar la versión del sistema y del kernel para asegurar que se estén aplicando los parches necesarios para proteger el servidor contra vulnerabilidades.
