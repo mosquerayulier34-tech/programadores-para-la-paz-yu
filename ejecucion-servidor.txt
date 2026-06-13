@@ -1,0 +1,6 @@
+¿Qué ocurre cuando ejecutas ⁠node server.js⁠?
+Al ejecutar este comando, el entorno de Node.js inicia el archivo ⁠server.js⁠, lo que pone en marcha el servidor de tu aplicación (generalmente utilizando un framework como Express). Esto deja al servidor "escuchando" peticiones en un puerto específico (por ejemplo, el puerto 3000).
+ ¿Qué mensaje aparece en la terminal?
+Aunque depende de lo que hayas escrito en tu código (en la parte donde configuras ⁠app.listen⁠), normalmente aparecerá un mensaje informativo indicando que el servidor ha iniciado correctamente, algo como: ⁠Servidor corriendo en http://localhost:3000⁠.
+ ¿Qué sucede cuando visitas la ruta ⁠/estado⁠?
+Al acceder a esa ruta en tu navegador o mediante una herramienta como Postman, el servidor procesa la solicitud y responde enviando un objeto en formato JSON
