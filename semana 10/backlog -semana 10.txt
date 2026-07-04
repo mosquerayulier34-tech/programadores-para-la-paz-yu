@@ -1,0 +1,3 @@
+1 Como líder comunitario quiero recibir un resumen semanal de las incidencias registradas para informar a la comunidad sobre el estado de las soluciones.
+2 Como veedor quiero filtrar los reportes por ubicación geográfica para priorizar las visitas a las zonas más críticas.
+3 Como ciudadano quiero visualizar el estado actual de mi reporte (pendiente, en revisión, resuelto) para conocer el progreso de mi

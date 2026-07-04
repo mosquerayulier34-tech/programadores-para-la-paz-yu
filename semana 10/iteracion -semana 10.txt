@@ -1,0 +1,10 @@
+1. ¿Qué 2 tareas del backlog harías primero?
+ Tarea 1: Como ciudadano, quiero registrar una incidencia para dejar evidencia del caso.
+ Tarea 2: Como coordinador, quiero recibir una alerta en Telegram para revisar un nuevo reporte.
+2. ¿Por qué son las más importantes?
+Porque establecen el flujo básico de la solución: sin la capacidad del ciudadano para reportar (Tarea 1), no existe información que gestionar. A su vez, es vital que el coordinador reciba la notificación de forma inmediata (Tarea 2) para que el reporte no quede en el olvido y se pueda empezar a trabajar en la solución. Es la base de la comunicación entre la comunidad y la veeduría.
+3. ¿Qué significa para ti que una tarea esté “terminada”? (Definición de "Terminado")
+Para mí, una tarea está terminada cuando cumple con los siguientes criterios de calidad:
+ Cumple su propósito: La funcionalidad hace exactamente lo que el usuario necesita y resuelve el problema inicial.
+ Está validada: Ha sido probada satisfactoriamente, asegurando que no genera errores al ser utilizada.
+ Está documentada: El código o el cambio realizado fue guardado correctamente en Git, con un mensaje claro que explica lo que se hizo.
