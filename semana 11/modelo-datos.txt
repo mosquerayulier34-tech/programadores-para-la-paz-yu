@@ -1,0 +1,16 @@
+proyecto:
+Entidad: Usuario
+ Campos principales:
+ ⁠id⁠
+ ⁠nombre⁠
+ ⁠correo⁠
+ ⁠rol⁠ (ej. administrador, colaborador)
+ Propósito: Almacenar la información de las personas registradas en la plataforma para gestionar su acceso y participación.
+Entidad: Comentario
+ Campos principales:
+ ⁠id⁠
+ ⁠causa_id⁠
+ ⁠usuario_id⁠
+ ⁠texto⁠
+ ⁠fecha⁠
+ Propósito: Permitir que los miembros de la comunidad expresen sus opiniones o brinden retroalimentación sobre las causas publicadas.

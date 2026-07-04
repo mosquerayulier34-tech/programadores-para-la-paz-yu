@@ -1,0 +1,4 @@
+Formulario de creación: La interfaz incluirá una sección dedicada para registrar nuevas causas comunitarias, solicitando al usuario el título, una descripción detallada y la fecha del evento o iniciativa.
+ Visualización de causas: Se dispondrá de una lista clara y organizada que muestre todas las causas disponibles, permitiendo a los miembros de la comunidad leer sobre cada una de ellas.
+ Interacción y participación: Cada causa presentada contará con un botón interactivo para brindar apoyo y un contador visible que indique cuántas personas se han sumado a dicha causa.
+ Diseño y privacidad: La interfaz mantendrá un enfoque de diseño claro y sencillo, asegurando en todo momento que no se muestre información privada de los usuarios para proteger su seguridad.
