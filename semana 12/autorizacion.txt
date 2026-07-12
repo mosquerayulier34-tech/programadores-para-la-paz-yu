@@ -1,0 +1,3 @@
+ Evento que activa la automatización: La automatización se activa inmediatamente cuando un nuevo apoyo es registrado exitosamente en la base de datos.
+ Mensaje que se envía: Se envía un mensaje al grupo o canal de Telegram informando: "¡Se ha recibido un nuevo apoyo para una causa en la plataforma!".
+ Información que no debe enviarse por seguridad: Para proteger la privacidad y cumplir con la minimización de datos, no se deben incluir en el mensaje datos personales como números de cédula, números de teléfono, direcciones físicas, comentarios sensibles o cualquier otra información personal identificable.

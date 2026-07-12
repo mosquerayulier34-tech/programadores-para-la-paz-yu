@@ -1,0 +1,3 @@
+Para el sistema de "Petición en 3 Clics", este modelo de datos funciona de la siguiente manera:
+ Entidad Causa: Sirve para registrar y almacenar la información principal de la iniciativa o propuesta ciudadana que se desea promover. Esta entidad contiene los detalles específicos, como el título, la descripción y la fecha en que fue creada.
+ Entidad Apoyo: Sirve para llevar el control y el registro individual de cada persona que respalda una causa específica. Esta entidad utiliza el campo ⁠causa_id⁠ para relacionar cada apoyo con la causa correspondiente, permitiendo que el sistema cuente cuántas personas han apoyado dicha iniciativa.

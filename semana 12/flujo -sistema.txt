@@ -1,0 +1,5 @@
+ Paso 1: Un ciudadano interesado crea una causa o propuesta dentro de la plataforma.
+ Paso 2: La información sobre la nueva causa se almacena y queda registrada en la base de datos del sistema.
+ Paso 3: Otros ciudadanos acceden a la plataforma para conocer la iniciativa y brindar su apoyo a la causa.
+ Paso 4: El sistema realiza un conteo automático de todos los apoyos recibidos por la causa.
+ Paso 5: Una vez reunido el apoyo necesario, el sistema genera automáticamente un documento en formato PDF que contiene la petición formal.
